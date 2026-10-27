@@ -1,2 +1,2 @@
 # Mofolu
-MoDevPublicRepo
+Welcome to my Mofolu Repository.
